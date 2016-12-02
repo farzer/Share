@@ -1,6 +1,6 @@
 // 复制到剪贴板
 function copyToClipboard(elem) {
-    var targetId = "__BtnCodeInnerCpAddonCopyText__";
+    var targetId = "__copyToCilpboardCopyText__";
     var isInput = elem.tagName === "INPUT" || elem.tagName === "TEXTAREA";
     var origSelectionStart, origSelectionEnd;
     if (isInput) {

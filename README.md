@@ -1,2 +1,4 @@
 # Share
-the file I think i should share
+the function that i think i should share
+
+- 复制到剪贴板
